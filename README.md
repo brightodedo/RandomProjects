@@ -1,3 +1,1 @@
-# Tic-Tac-Toe
-Tic Tac Toe game
-a python Tic Tac Toe game.
+An area for any random program I create.
